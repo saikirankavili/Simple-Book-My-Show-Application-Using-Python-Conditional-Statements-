@@ -38,11 +38,11 @@ if a in l:
                 print("Your Booking to the BLODDY ROMEO movie is cancelled❌\nPlease Try Again")
         if c==2:
             print("You have selected the KGF CHAPTER-3 movie\nTicket Price is Rs. 300")
-            c2=input("DO you want to Confirm booking (yes/no):")
+            c2=input("Do you want to confirm booking (yes/no):")
             if c2=="yes":
                 print("Your Booking to the KGF CHAPTER-3 movie is confirmed✅\nYour Booking Id:86593\nAmount paid : Rs. 300 \nShow Timings : 3:00 pm")
             if c2=="no":
                 print("Your Booking to the KGF CHAPTER-3 movie is cancelled❌\nPlease Try Again")
 else:
-    print("❌Theater Name is not AvailableN❌ \nPlease choose Correct Theater")
+    print("❌Theater Name is not Available❌ \nPlease choose Correct Theater")
     
